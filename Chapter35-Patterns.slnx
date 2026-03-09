@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="GradeEvaluator\GradeEvaluator.csproj" />
+  <Project Path="ItemSystem\ItemSystem.csproj" />
+  <Project Path="ShapeClassifier\ShapeClassifier.csproj" />
+</Solution>
